@@ -3,7 +3,7 @@ package com.neusoft.oa.hr.model;
 import java.io.Serializable;
 
 import org.apache.ibatis.type.Alias;
-//部门model类
+//部门的model类
 @Alias("Department")
 public class DepartmentModel implements Serializable {
 	private static final long serialVersionUID = 1L;
